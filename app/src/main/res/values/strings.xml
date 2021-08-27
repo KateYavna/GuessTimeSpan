@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessTimeSpan</string>
+    <string name="tvName"> Guess the time span from 5 seconds to 20</string>
+    <string name="btStart">Start</string>
+    <string name="tvFinish"></string>
+    <string name="btSure"> Are you sure? </string>
+    <string name="etGuessTime">sec</string>
+</resources>
